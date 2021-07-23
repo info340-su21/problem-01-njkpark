@@ -306,5 +306,9 @@
 Test Suites: 1 failed, 1 total
 Tests:       17 failed, 1 passed, 18 total
 Snapshots:   0 total
+<<<<<<< HEAD
 Time:        2.024 s
+=======
+Time:        2.038 s, estimated 3 s
+>>>>>>> gh-pages
 Ran all test suites matching /problem-a/i.
